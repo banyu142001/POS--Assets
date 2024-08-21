@@ -1,0 +1,35 @@
+DATA SISTEM INFORMASI POINT OF SALE
+=========================================
+ PENGEMBANG : BAYU GURIUM
+---------------------------------------
+
+ TEKNOLOGI YANG DIGUNAKAN DALAM PENGEMBANGAN
+  
+  - CodeIgniter 4 : https://codeigniter.com/ 
+  - SweetAlert2 : https://sweetalert2.github.io/
+  - Template Webiste : https://www.creative-tim.com/product/material-dashboard
+  - Bootstrap v5 : https://getbootstrap.com/
+  - MysqlWorkbench : https://www.mysql.com/products/workbench/
+
+==============================================
+
+ ROLE AKSESS
+  - Admin
+  - Kasir
+	
+ ------------------------------------------------
+ 
+ DATA LOGIN
+ 
+  * Admin 
+   - Username : Bayu
+   - Password : bayu142001
+  * Kasir
+   - Username : Nita
+   - Password : bayu142001
+==================================================
+
+INFO PENGEMBANG
+
+tlp / WA : +62 851-4295-9238 
+  

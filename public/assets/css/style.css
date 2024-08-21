@@ -1,0 +1,40 @@
+/* popup sweetalert style */
+.custom-confirm-button {
+  padding: 3px 4px;
+  /* width: 100px; */
+  margin-left: 5px;
+  margin-top: -10px;
+  font-size: 14px;
+  order: 2;
+}
+.custom-text {
+  padding: 7px 0px;
+}
+
+.custom-cancel-button {
+  padding: 3px 4px;
+  margin-top: -10px;
+  font-size: 14px;
+  order: 1;
+  margin-left: 100px;
+}
+
+.custom-icon {
+  font-size: 10px;
+}
+
+.custom-confirm-button-delete {
+  padding: 5px;
+}
+
+.custom-cancel-button-delete {
+  padding: 5px;
+}
+
+.custom-swal-popup {
+  width: 400px;
+}
+
+.welcome-popup {
+  width: 300px;
+}
